@@ -4,7 +4,8 @@
 
 - Este projeto consiste em uma API back-end feita com FastAPI para consulta e cadastramento dados via endereço URL.
 
-- Segue anexo arquivo em PDF com documentação de uso da API HOTEL: __Documentação REST FastAPI.pdf__
+- Segue anexo arquivo em PDF com documentação de uso da API HOTEL: 
+[Documentação REST FastAPI.pdf](<Documentação REST FastAPI.pdf>)
 
 - Principais ações:
     - Cadastramento de usuário e artigos;
